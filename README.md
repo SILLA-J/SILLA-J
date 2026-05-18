@@ -1,6 +1,6 @@
 # Hi 👋 I'm Silla
 
-* Computer Science Student 🎓
+* Computers and Artificial Intelligence Student 🎓
 * Front-End Web Developer 💻
 * Digital Design & Branding 🎨
 
