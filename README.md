@@ -1,16 +1,13 @@
-## Hi there 👋
+# ⚡ Welcome to my GitHub! 
 
-<!--
-**SILLA-J/SILLA-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Silla, a tech student blending the logic of Computer Science and Mathematics with the creativity of Front-End Web Development.
 
-Here are some ideas to get you started:
+| 🛠️ Core Skills | 📚 Currently Learning | 🎨 Creative Interests |
+| :--- | :--- | :--- |
+| HTML5 & CSS3 | Advanced JavaScript | Brand Identity & Design |
+| Responsive Web Design | Data Structures | Digital Photo Editing |
+| UI Layouts (Flexbox) | Discrete Math | Visual Aesthetics |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📬 How to reach me: Feel free to explore my repositories or check out my latest web experiments!
